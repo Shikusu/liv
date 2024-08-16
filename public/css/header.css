@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100vh;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+#regiration_form fieldset:not(:first-of-type) {
+    display: none;
+}
+
+.style-button {
+    color: white;
+    background: transparent;
+    border: none;
+    margin-left: 10px;
+}
+
+.style-button:hover {
+    color: blue;
+}
+
+a:visited {
+    color: white;
+}
+
+a:visited::after {
+    color: white;
+}
+
+.logo {
+    width: 69px;
+    height: 69px
+}
+
+.major {
+    font-size: large;
+}

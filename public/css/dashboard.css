@@ -1,0 +1,15 @@
+.livraisons {
+    background-color: rgba(124, 133, 133, 0.685);
+}
+
+.carte {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    margin-right: 25px;
+    border-color: rgb(43, 43, 40);
+    border-radius: 15px;
+    border-width: 6.9px;
+}

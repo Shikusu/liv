@@ -2,7 +2,7 @@
 include 'header.php';
 ?>
 <div class="content mx-5">
-    ici aussi
+    copy pasta
 
 
 </div>
